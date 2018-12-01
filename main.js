@@ -41,7 +41,8 @@ function profile(pro){
  function carrer(c)
  {
  	var h1=document.createElement("h1");
- 	h1.textContent="Resume"
+ 	h1.textContent="Resume";
+	 right.appendChild(h1);
  	var h2=document.createElement("h2");
  	h2.textContent="Carrer Objective";
  	right.appendChild(h2);
