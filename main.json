@@ -1,0 +1,63 @@
+{
+	"profile":{
+		"img":"photo.jpg",
+		"name":"khyathi nandini",
+		"roll":"16NN1A1225",
+		"institute":"vignan's nirula",
+		"place":"guntur"
+	},
+	"carrer":{
+		"info":"to improve my knowlege and skills"
+	},
+	"Educational":[
+		{
+			"degree":"b.tech",
+			"instituion":"vignan's nirula",
+			"yop":"2020"
+		},
+		{
+			"degree":"intermediate",
+			"institution":"sri chaitanya",
+			"yop":"2016"
+		},
+		{	
+			"degree":"ssc",
+			"institution":"kkrs gowtham",
+			"yop":"2014"
+		}		
+		],
+		"languages":[
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"english"
+		},		
+		{
+			"lang":"hindi"
+		}
+],
+"skills":[
+{
+	"title":"platforms",
+	"content":"windows,linux"
+},
+{
+	"title":"programming languages",
+	"content":"c,c++,java"
+},
+{
+	"title":"database",
+	"content":"mysql"
+}
+]
+}
+
+
+
+
+
+
+
+
+
